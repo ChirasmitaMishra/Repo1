@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A652-F2CE
+
+ Directory of C:\PERSONAL\OFFICIAL\MUNU\Git
+
+07/10/2022  22:50    <DIR>          .
+07/10/2022  22:50    <DIR>          ..
+07/10/2022  11:54                32 index.html
+07/10/2022  11:14    <DIR>          MyFolder
+07/10/2022  11:32                 8 test1.txt
+07/10/2022  22:50                 0 test2.txt
+               3 File(s)             40 bytes
+               3 Dir(s)  21,053,313,024 bytes free
