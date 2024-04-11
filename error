@@ -1,1 +1,11 @@
-FileNotFoundError: [Errno 2] No such file or directory: '/hostfs/root/harbor/harbor.key'
+root@harbor1:/home/chirasmita/Documents/harbor-demo# docker push harbor1/chirasmita/smita-public-harbor-repo/nginx:v1
+The push refers to repository [docker.io/harbor1/chirasmita/smita-public-harbor-repo/nginx]
+fc62225e7890: Preparing 
+75960f7ec704: Preparing 
+4a4c3fe4d6e7: Preparing 
+c4484f227d5e: Preparing 
+2ee294939e65: Preparing 
+87a8a3a2ab9c: Waiting 
+1f00ff201478: Waiting 
+denied: requested access to the resource is denied
+
